@@ -1,3 +1,5 @@
+Arquivo contendo os Users Stories referentes ao projeto de aparelho de Audiometria
+
 1-Enquanto médico, eu gostaria de poder utilizar um aparelho de fácil manuseio para a realização do exame de audiometria. 
 2-Enquanto médico, eu necessito de um sistema que emita um som de 10 decibéis e que sua intensidade aumente gradativamente, até o paciente relatar que escutou o sinal.
 3-Enquanto médico, eu necessito de um sistema que informe o momento que o paciente escutou o som emitido e avise a intensidade deste som.
